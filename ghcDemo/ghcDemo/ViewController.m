@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    //DADAWDAW
+    //DWADWD/DWAD/AW/D
+    //DWADDWDA/
+    //DAWDDADA
 }
 
 - (void)didReceiveMemoryWarning {
